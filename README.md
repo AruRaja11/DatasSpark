@@ -18,7 +18,7 @@ Technologies Used:
 
 About the Files Used: 
   1. Dataspark_file1 - this file contains the code used in cleaning the dataframe
-  2. Dataspark_Project2 - this ppt file contains all the created visualization and 10 insights
+  2. Dataspark_viz - this ppt file contains all the created visualization and 10 insights
 
 Conclusion: 
   By analyzing Global Electronics' customer, product, sales, and store data, we aim to identify key insights that will enhance marketing strategies, optimize inventory management, and improve sales forecasting. This will help tailor marketing campaigns, develop better products, plan effective promotions, and decide on store expansions and optimizations. Additionally, understanding the impact of currency exchange rates on sales will allow for better international pricing strategies. Overall, these insights will help Global Electronics increase customer satisfaction and drive business growth.
